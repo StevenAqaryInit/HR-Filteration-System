@@ -1,0 +1,12 @@
+docx==0.2.4
+joblib==1.4.2
+nltk==3.8.1
+ollama==0.2.1
+pandas==2.2.2
+pdfminer==20191125
+plotly==5.22.0
+PyPDF2==3.0.1
+scikit_learn==1.5.1
+streamlit==1.36.0
+streamlit_TTS==0.0.7
+streamlit-aggrid==1.0.5
